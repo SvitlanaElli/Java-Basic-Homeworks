@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0abd6ebf-ec19-4c26-8bf9-3985c924e49c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-Basic-Homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/for_loop/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/for_loop/PrintRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/for_loop/PrintRightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/CompareNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/MaxOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/MinofTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else/SortOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/PrintStringNTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/SSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/TenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while_loop/TenNumbersReverse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E5WW0riaGcFhFLittzppX4z8gF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0abd6ebf-ec19-4c26-8bf9-3985c924e49c" name="Changes" comment="" />
+      <created>1661885954336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661885954336</updated>
+    </task>
+    <servers />
+  </component>
+</project>
